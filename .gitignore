@@ -1,0 +1,9 @@
+*.blend1
+*.blend2
+__pycache__/
+*.tmp
+*.log
+*.pyc
+.DS_Store
+.vscode/
+.idea/
