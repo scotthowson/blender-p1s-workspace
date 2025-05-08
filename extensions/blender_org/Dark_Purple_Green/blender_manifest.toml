@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "Dark_Purple_Green"
+version = "1.0.0"
+name = "DarkPurpleGreen"
+tagline = "Dark minimal neon theme I use daily"
+maintainer = "MSBH <msbh.contact@gmail.com>"
+type = "theme"
+
+blender_version_min = "4.2.0"
+
+tags = ["Dark"]
+
+# License conforming to https://spdx.org/licenses/ (use "SPDX: prefix)
+# https://docs.blender.org/manual/en/dev/extensions/licenses.html
+license = [
+  "SPDX:GPL-2.0-or-later",
+]

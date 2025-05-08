@@ -1,0 +1,8 @@
+preset_name,thread_preset,head_type,head_length,head_diameter,head_mod_a,driver_type,driver_depth,driver_mod_b,driver_mod_a,thumb
+Slotted Pan Head M3 Coarse,M3×0.5,SOCKED,1.8,6,0.5,SLOTTED,0.7,0.8,10,Slotted_Pan_Head_M3_Coarse
+Slotted Pan Head M3.5 Coarse,M3.5×0.6,SOCKED,2.1,7,0.5,SLOTTED,0.8,1,10,Slotted_Pan_Head_M3_5_Coarse
+Slotted Pan Head M4 Coarse,M4×0.7,SOCKED,2.4,8,0.5,SLOTTED,1,1.2,10,Slotted_Pan_Head_M4_Coarse
+Slotted Pan Head M5 Coarse,M5×0.8,SOCKED,3,10,0.5,SLOTTED,1.2,1.2,12,Slotted_Pan_Head_M5_Coarse
+Slotted Pan Head M6 Coarse,M6×1,SOCKED,3.6,12,0.5,SLOTTED,1.4,1.6,15,Slotted_Pan_Head_M6_Coarse
+Slotted Pan Head M8 Coarse,M8×1.25,SOCKED,4.8,16,0.5,SLOTTED,1.9,2,20,Slotted_Pan_Head_M8_Coarse
+Slotted Pan Head M10 Coarse,M10×1.5,SOCKED,6,20,0.5,SLOTTED,2.4,2.5,25,Slotted_Pan_Head_M10_Coarse

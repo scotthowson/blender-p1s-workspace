@@ -1,0 +1,10 @@
+preset_name,thread_preset,nut_type,length,nut_chamfer,nut_diameter,thumb
+Square M2 DIN562,M2×0.25 (Fine),SQUARE,1.2,1,5.005,Square_M2_DIN562
+Square M2.5 DIN562,M2.5×0.35 (Fine),SQUARE,1.6,1,6.305,Square_M2_5_DIN562
+Square M3 DIN562,M3×0.35 (Fine),SQUARE,1.8,1,6.955,Square_M3_DIN562
+Square M3.5 DIN562,M3.5×0.35 (Fine),SQUARE,2,1,7.605,Square_M3_5_DIN562
+Square M4 DIN562,M4×0.5 (Fine),SQUARE,2.2,1,8.866,Square_M4_DIN562
+Square M5 DIN562,M5×0.5 (Fine),SQUARE,2.7,1,10.166,Square_M5_DIN562
+Square M6 DIN562,M6×0.75 (Fine),SQUARE,3.2,1,12.766,Square_M6_DIN562
+Square M8 DIN562,M8×1 (Fine),SQUARE,4,1,16.6205,Square_M8_DIN562
+Square M10 DIN562,M10×1.25 (Fine),SQUARE,5,1,21.8205,Square_M10_DIN562

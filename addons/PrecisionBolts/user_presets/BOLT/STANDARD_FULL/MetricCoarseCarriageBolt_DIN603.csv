@@ -1,0 +1,8 @@
+preset_name,thread_preset,head_type,head_length,head_diameter,head_mod_b,head_mod_c,driver_type,thumb
+Carriage Bolt M5 Coarse,M5×0.8,CARRIAGE,3.3,13.55,7.5,4.1,NONE,Carriage_Bolt_M5_Coarse
+Carriage Bolt M6 Coarse,M6×1,CARRIAGE,3.88,16.55,9,4.6,NONE,Carriage_Bolt_M6_Coarse
+Carriage Bolt M8 Coarse,M8×1.25,CARRIAGE,4.88,20.65,12,5.6,NONE,Carriage_Bolt_M8_Coarse
+Carriage Bolt M10 Coarse,M10×1.5,CARRIAGE,5.38,24.65,15,6.6,NONE,Carriage_Bolt_M10_Coarse
+Carriage Bolt M12 Coarse,M12×1.75,CARRIAGE,6.95,30.65,18,8.75,NONE,Carriage_Bolt_M12_Coarse
+Carriage Bolt M16 Coarse,M16×2,CARRIAGE,8.95,38.8,24,12.9,NONE,Carriage_Bolt_M16_Coarse
+Carriage Bolt M20 Coarse,M20×2.5,CARRIAGE,11.05,46.8,30,15.9,NONE,Carriage_Bolt_M20_Coarse

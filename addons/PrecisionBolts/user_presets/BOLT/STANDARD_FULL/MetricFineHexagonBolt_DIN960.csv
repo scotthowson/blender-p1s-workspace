@@ -1,0 +1,12 @@
+preset_name,thread_preset,head_type,head_length,head_diameter,driver_type,thumb
+Hex M6(0.75p) Fine,M6×0.75 (Fine),HEX,4,11.05,NONE,Hex_M6_0_75p__Fine
+Hex M8(1.00p) Fine,M8×1 (Fine),HEX,5.3,14.38,NONE,Hex_M8_1_00p__Fine
+Hex M10(1.00p) Fine,M10×1 (Extra Fine),HEX,6.4,18.9,NONE,Hex_M10_1_00p__Fine
+Hex M10(1.25P) Fine,M10×1.25 (Fine),HEX,6.4,18.9,NONE,Hex_M10_1_25P__Fine
+Hex M12(1.50p) Fine,M12×1.5 (Fine),HEX,7.5,21.1,NONE,Hex_M12_1_50p__Fine
+Hex M14(1.5p) Fine,M14×1.5 (Fine),HEX,8.8,24.49,NONE,Hex_M14_1_5p__Fine
+Hex M16(1.5p) Fine,M16×1.5 (Fine),HEX,10,26.75,NONE,Hex_M16_1_5p__Fine
+Hex M18(1.5P) Fine,M18×1.5 (Extra Fine),HEX,11.5,30.078,NONE,Hex_M18_1_5P__Fine
+Hex M20(1.5P) Fine,M20×1.5 (Extra Fine),HEX,12.5,33.42,NONE,Hex_M20_1_5P__Fine
+Hex M24(2.0P) Fine,M24×2 (Fine),HEX,15,40.104,NONE,Hex_M24_2_0P__Fine
+Hex M27(2.00P) Fine,M27×2 (Fine),HEX,17,45.674,NONE,Hex_M27_2_00P__Fine

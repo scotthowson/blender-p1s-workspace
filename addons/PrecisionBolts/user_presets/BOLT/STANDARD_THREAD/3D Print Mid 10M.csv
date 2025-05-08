@@ -1,0 +1,2 @@
+preset_name,chamfer_length,custom_thread_profile,thread_angle,runout_length,chamfer_divisions,root_weight,trim,shank_length,pitch,screw_taper_factor,nut_diameter,minor_diameter,major_diameter,starts,length,runout_offset,chamfer,crest_weight,thread_resolution,thumb
+3D Print Mid 10M,2.0,True,1.0471975803375244,0.0,0,0.20000000298023224,0.0,1.0,3.0,0.33000001311302185,1.0,8.0,10.0,1,20.0,0.0,0.7853981852531433,0.20000000298023224,32,3D_Print_Mid_10M
